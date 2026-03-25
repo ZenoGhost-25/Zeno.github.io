@@ -1,3 +1,8 @@
 title: Monde des Requins
-description: Découverte des requins
+description: Découvrir, apprendre et explorer les requins
 theme: minima
+
+header_pages:
+  - index.md
+
+lang: fr

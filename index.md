@@ -3,13 +3,46 @@ layout: default
 title: Accueil
 ---
 
-# 🦈 Monde des Requins
+<div class="hero">
+  <h1>🦈 Monde des Requins</h1>
+  <p>Découvrir, apprendre et explorer ces créatures fascinantes</p>
+</div>
 
-Bienvenue sur mon site dédié aux requins !
+## 🌊 Qu’est-ce qu’un requin ?
 
-Les requins sont des créatures fascinantes qui vivent dans les océans depuis plus de 400 millions d'années.
+Les requins sont des poissons cartilagineux présents depuis plus de 400 millions d’années.
 
-## 🌊 Navigation
+<div class="cards">
 
-- [Découvrir les requins](requins.html)
-- [Espèces de requins](especes.html)
+<div class="card">
+<h3>🔍 Découvrir</h3>
+<p>Apprends comment vivent les requins et leurs caractéristiques uniques.</p>
+</div>
+
+<div class="card">
+<h3>⚙️ Comprendre</h3>
+<p>Explore leurs sens incroyables et leur rôle dans l’océan.</p>
+</div>
+
+<div class="card">
+<h3>🌍 Protéger</h3>
+<p>Comprends pourquoi ils sont essentiels à l’écosystème marin.</p>
+</div>
+
+</div>
+
+---
+
+## 🧠 Informations clés
+
+- Plus de 500 espèces de requins
+- Sens de l’odorat extrêmement développé
+- Présents dans tous les océans
+
+---
+
+## 📅 Actualités
+
+> 🦈 Nouvelle découverte d’espèce  
+> 🌊 Protection des océans  
+> 🔬 Recherche scientifique en cours
