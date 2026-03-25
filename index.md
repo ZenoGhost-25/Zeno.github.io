@@ -46,3 +46,12 @@ Les requins sont des poissons cartilagineux présents depuis plus de 400 million
 > 🦈 Nouvelle découverte d’espèce  
 > 🌊 Protection des océans  
 > 🔬 Recherche scientifique en cours
+
+<div class="download">
+  <h2>📥 Télécharger notre guide</h2>
+  <p>Découvre notre guide complet sur les requins.</p>
+
+  <a href="assets/files/guide-requins.pdf" download class="btn-download">
+    Télécharger le PDF
+  </a>
+</div>
